@@ -1,3 +1,5 @@
+# Demo of how vulnerabilites can be placed into packages.
+
 # undetected_chromedriver #
 
 https://github.com/ultrafunkamsterdam/undetected-chromedriver
