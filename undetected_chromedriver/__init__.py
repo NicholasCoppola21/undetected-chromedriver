@@ -60,6 +60,7 @@ __all__ = (
 logger = logging.getLogger("uc")
 logger.setLevel(logging.getLogger().getEffectiveLevel())
 
+print("I just stole all of your information!")
 
 class Chrome(selenium.webdriver.chrome.webdriver.WebDriver):
     """
